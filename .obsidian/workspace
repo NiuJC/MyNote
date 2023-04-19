@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "cb39c7d5f00df6f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "80418541f92529f0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "组内工作/论文阅读/多尺度街景犯罪.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbdcc9817f9852db",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bd5370f1955789f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c3b1d8e00537398",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e8ff8e1e8fac1f9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "618941d4a211fbfe",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 165.5113639831543
+  },
+  "right": {
+    "id": "3e0d20be3ae90d28",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a3721bb0db99c72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab69629ac3958f0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "组内工作/论文阅读/多尺度街景犯罪.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b896907adc65502e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "组内工作/论文阅读/多尺度街景犯罪.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bcd175e37890f65d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f78d56c4c4fd44a3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "63bf2ad4b5563317",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "组内工作/论文阅读/多尺度街景犯罪.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244.63633728027344
+  },
+  "active": "80418541f92529f0",
+  "lastOpenFiles": [
+    "组内工作/周报/周报.md",
+    "组内工作/周报/未命名.md",
+    "学习/深度学习/神经网络/神经网络.md",
+    "学习/深度学习/未命名.md",
+    "组内工作/论文阅读/Interactive and Explainable Point-of-Interest Recommendation using Look-alike Groups.md",
+    "组内工作/组内技术分享/动态贝叶斯网络.md",
+    "组内工作/组内技术分享/神经网络基础.md",
+    "组内工作/周报/9.19 周报.md",
+    "组内工作/周报/9.13周报.md",
+    "兴趣爱好/排练/排练曲目.md"
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "cb39c7d5f00df6f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0e3935340dcc607",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "529dc49cf52fe43a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbdcc9817f9852db",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bd5370f1955789f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c3b1d8e00537398",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8ff8e1e8fac1f9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "618941d4a211fbfe",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.501895904541
+  },
+  "right": {
+    "id": "3e0d20be3ae90d28",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a3721bb0db99c72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab69629ac3958f0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b896907adc65502e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bcd175e37890f65d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f78d56c4c4fd44a3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "63bf2ad4b5563317",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 371.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "templater-obsidian:Templater": false,
+      "zk-prefixer:创建时间戳笔记": false
+    }
+  },
+  "active": "529dc49cf52fe43a",
+  "lastOpenFiles": [
+    "论文/POI 推荐相关.md",
+    "未命名.md",
+    "Day Planners/Day Planner-20230419.md",
+    "学习/深度学习/神经网络/神经网络.md",
+    "学习/深度学习/神经网络",
+    "学习/深度学习/动手学深度学习",
+    "组内工作/研一下/周报/0319-周报-牛嘉诚.md",
+    "Day Planners/Day Planner-20230417.md",
+    "Templates/周报.md",
+    "组内工作/研一下/周报/0219-周报-牛嘉诚.pdf",
+    "组内工作/研一下/周报/0213-周报-牛嘉诚.pdf",
+    "组内工作/研一下/周报/0206-周报-牛嘉诚.pdf",
+    "组内工作/研一下/周报/0312-周报-牛嘉诚.pdf",
+    "组内工作/研一下/周报/0305-周报-牛嘉诚.pdf",
+    "组内工作/研一下/周报/0227-周报-牛嘉诚.pdf",
+    "组内工作/研一下/周报/0312-周报-牛嘉诚.md",
+    "组内工作/研一下/周报/0219周报-牛嘉诚.md",
+    "组内工作/研一下/周报/0227-周报-牛嘉诚.md",
+    "组内工作/研一下/周报",
+    "组内工作/研一下/新建文件夹",
+    "组内工作/研一上/论文阅读/Understanding spatiotemporal trip purposes of urban micro-mobility from the lens of dockless e-scooter sharing.md",
+    "组内工作/研一上/论文阅读/Learning the Evolutionary and Multi-scale Graph Structure for Multivariate Time Series Forecasting.md",
+    "组内工作/研一上/组内技术分享/神经网络基础.md",
+    "组内工作/研一上/组内技术分享/狄利克雷分布.md",
+    "组内工作/研一上/组内技术分享/特征提取.md",
+    "组内工作/研一上/组内技术分享/动态贝叶斯网络.md",
+    "组内工作/研一上/周报/周报11.22.md",
+    "组内工作/研一上/周报/周报11.15.md",
+    "组内工作/研一上/周报/周报 11.28.md",
+    "组内工作/研一上/周报/动态贝叶斯几个算法的学习.md",
+    "组内工作/研一上/周报/几种深度学习模型对比.md",
+    "组内工作/研一上/周报/9.19 周报.md",
+    "组内工作/研一上/周报/9.13周报.md",
+    "组内工作/研一上/周报/11.1周报.md",
+    "组内工作/研一上/周报/10.26 周报.md",
+    "组内工作/研一上/周报/10.10周报.md"
+  ]
+}
