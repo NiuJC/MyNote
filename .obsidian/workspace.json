@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习/深度学习/神经网络/神经网络.md",
+                "file": "Templates/时间安排.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习/深度学习/神经网络/神经网络.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习/深度学习/神经网络/神经网络.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "学习/深度学习/神经网络/神经网络.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,7 +157,18 @@
   },
   "active": "5c3b1d8e00537398",
   "lastOpenFiles": [
+    "组内工作/轨迹表征学习",
+    "组内工作/研二下",
+    "Templates/论文阅读笔记.md",
+    "组内工作/未命名.md",
+    "Templates/博客文章模板.md",
+    "Templates/时间安排.md",
+    "Templates/周报.md",
+    "Day Planners/Day Planner-20221107.md",
     "Day Planners/Day Planner-20230909.md",
+    "Day Planners",
+    "Day Planners/Day Planner-20221104.md",
+    "学习/深度学习/神经网络/神经网络.md",
     "Day Planners/Day Planner-20230529.md",
     "Day Planners/Day Planner-20230428.md",
     "Day Planners/Day Planner-20230427.md",
@@ -172,12 +179,10 @@
     "论文/POI 推荐相关.md",
     "未命名.md",
     "Day Planners/Day Planner-20230419.md",
-    "学习/深度学习/神经网络/神经网络.md",
     "学习/深度学习/神经网络",
     "学习/深度学习/动手学深度学习",
     "组内工作/研一下/周报/0319-周报-牛嘉诚.md",
     "Day Planners/Day Planner-20230417.md",
-    "Templates/周报.md",
     "组内工作/研一下/周报/0219-周报-牛嘉诚.pdf",
     "组内工作/研一下/周报/0213-周报-牛嘉诚.pdf",
     "组内工作/研一下/周报/0206-周报-牛嘉诚.pdf",
@@ -187,15 +192,6 @@
     "组内工作/研一下/周报/0312-周报-牛嘉诚.md",
     "组内工作/研一下/周报/0219周报-牛嘉诚.md",
     "组内工作/研一下/周报/0227-周报-牛嘉诚.md",
-    "组内工作/研一下/周报",
-    "组内工作/研一下/新建文件夹",
-    "组内工作/研一上/论文阅读/Understanding spatiotemporal trip purposes of urban micro-mobility from the lens of dockless e-scooter sharing.md",
-    "组内工作/研一上/论文阅读/Learning the Evolutionary and Multi-scale Graph Structure for Multivariate Time Series Forecasting.md",
-    "组内工作/研一上/组内技术分享/神经网络基础.md",
-    "组内工作/研一上/组内技术分享/狄利克雷分布.md",
-    "组内工作/研一上/组内技术分享/特征提取.md",
-    "组内工作/研一上/组内技术分享/动态贝叶斯网络.md",
-    "组内工作/研一上/周报/周报11.22.md",
-    "组内工作/研一上/周报/周报11.15.md"
+    "组内工作/研一上/论文阅读/Understanding spatiotemporal trip purposes of urban micro-mobility from the lens of dockless e-scooter sharing.md"
   ]
 }
