@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9421a3d9abbbddca",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,6 +75,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "904d4c690a4f3772",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/时间安排.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/时间安排.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/时间安排.md"
+              }
             }
           }
         ],
@@ -155,8 +178,9 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "5c3b1d8e00537398",
+  "active": "9421a3d9abbbddca",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230910.md",
     "组内工作/轨迹表征学习",
     "组内工作/研二下",
     "Templates/论文阅读笔记.md",
@@ -188,7 +212,6 @@
     "组内工作/研一下/周报/0206-周报-牛嘉诚.pdf",
     "组内工作/研一下/周报/0312-周报-牛嘉诚.pdf",
     "组内工作/研一下/周报/0305-周报-牛嘉诚.pdf",
-    "组内工作/研一下/周报/0227-周报-牛嘉诚.pdf",
     "组内工作/研一下/周报/0312-周报-牛嘉诚.md",
     "组内工作/研一下/周报/0219周报-牛嘉诚.md",
     "组内工作/研一下/周报/0227-周报-牛嘉诚.md",
